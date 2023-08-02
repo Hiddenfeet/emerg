@@ -1,0 +1,23 @@
+.play-btn{width:40px;height:40px;margin-right:"1rem";background:radial-gradient(#1f1f4b 60%,rgb(88 73 140) 62%);border-radius:50%;position:relative;display:block;box-shadow:0 0 25px 3px rgb(157 1 243)}.play-btn:after{content:"";position:absolute;left:50%;top:50%;-webkit-transform:translateX(-40%) translateY(-50%);transform:translateX(-40%) translateY(-50%);-webkit-transform-origin:center center;transform-origin:center center;width:0;height:0;border-top:7px solid transparent;border-bottom:7px solid transparent;border-left:15px solid #58498c;z-index:100;transition:all .4s cubic-bezier(.55,.055,.675,.19)}.play-btn:before{content:"";position:absolute;width:160%;height:160%;-webkit-animation-delay:0s;animation-delay:0s;-webkit-animation:pulsate1 2s;animation:pulsate1 2s;-webkit-animation-direction:forwards;animation-direction:forwards;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;-webkit-animation-timing-function:steps;animation-timing-function:steps;opacity:1;border-radius:50%;border:5px solid rgba(198,16,0,.171);top:-39%;left:-44%;background:rgba(198,16,0,0)}@-webkit-keyframes pulsate1{0%{-webkit-transform:scale(.6);transform:scale(.6);opacity:1;box-shadow:inset 0 0 25px 3px rgba(88,5,75,.468),0 0 25px 10px rgba(70,14,59,.167)}to{-webkit-transform:scale(1);transform:scale(1);opacity:0;box-shadow:none}}@keyframes pulsate1{0%{-webkit-transform:scale(.6);transform:scale(.6);opacity:1;box-shadow:inset 0 0 25px 3px rgba(88,5,75,.468),0 0 25px 10px rgba(70,14,59,.167)}to{-webkit-transform:scale(1);transform:scale(1);opacity:0;box-shadow:none}}
+/*# sourceMappingURL=main.19879aee.chunk.css.map */
+/*
+     FILE ARCHIVED ON 05:53:57 Jun 12, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:07:24 Aug 02, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 164.278
+  exclusion.robots: 0.124
+  exclusion.robots.policy: 0.109
+  cdx.remote: 0.087
+  esindex: 0.013
+  LoadShardBlock: 100.82 (3)
+  PetaboxLoader3.datanode: 185.253 (6)
+  load_resource: 500.118 (2)
+  PetaboxLoader3.resolve: 289.203 (2)
+  loaddict: 59.625
+*/
